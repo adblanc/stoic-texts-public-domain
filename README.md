@@ -29,3 +29,11 @@ P. E. Matheson's 1916 translation includes the Discourses, the Manual (Enchiridi
 - **Source:** [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius)
 
 Richard M. Gummere's English translation of Seneca's _Epistulae Morales ad Lucilium_ was published as part of the Loeb Classical Library series. The digital edition was transcribed and proofread by Wikisource volunteers and is distributed under a free license.
+
+### On the Shortness of Life — Seneca
+
+- **File:** `on_the_shortness_of_life.txt`
+- **Translator:** John W. Basore
+- **Publisher:** Loeb Classical Library, 1932
+
+John W. Basore's 1932 translation of Seneca's _De Brevitate Vitae_ was published as part of the Loeb Classical Library series. The text is in the public domain because it was published prior to 1964 and its copyright was not renewed.
